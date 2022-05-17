@@ -33,5 +33,5 @@ void loop() {
 	Serial.print("% = ");
 	Serial.print(asilimia);
 	Serial.print("\n");
-	delay(300);
+	delay(30);
 }
